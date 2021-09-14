@@ -1,0 +1,29 @@
+@font-face {
+    font-family: Inter;
+    src: url(../../vendor/font/Inter/Inter-Regular.otf);
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: Inter;
+    src: url(../../vendor/font/Inter/Inter-Bold.otf);
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: Inter;
+    src: url(../../vendor/font/Inter/Inter-Black.otf);
+    font-weight: 900;
+}
+
+.page {
+    background-color: #2A2C2F;
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+@media screen and (max-width: 767px) {
+    .page {
+        margin: 0;
+    }
+}
