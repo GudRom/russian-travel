@@ -26,5 +26,6 @@
     .cover__title {
         margin: 33px auto 16px;
         font-size: 28px;
+        max-width: 288px;
     }
 }

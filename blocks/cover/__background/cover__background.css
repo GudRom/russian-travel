@@ -1,6 +1,6 @@
 .cover__background {
     width: 100%;
-    background-image: url(../../../sprint-3-images/cover-trains.jpg);
+    background-image: url(../../../images/cover-trains.jpg);
     background-size: cover;
     background-position: center;
     z-index: 1;
