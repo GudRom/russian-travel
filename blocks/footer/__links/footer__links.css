@@ -13,5 +13,6 @@
         flex-direction: column;
         margin: 0 0 48px;
         min-height: 248px;
+        align-items: flex-start;
     }
 }
