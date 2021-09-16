@@ -5,6 +5,7 @@
     text-decoration-line: underline;
     color: #FFF;
     transition: opacity ease-in .2s;
+    max-width: fit-content;
 }
 
 .place__link:hover {

@@ -1,0 +1,8 @@
+@media screen and (max-width: 767px) {
+    .footer__navigation {
+        display: flex;
+        margin: 0 0 48px;
+        min-height: 248px;
+        max-width: 288px;
+    }
+}

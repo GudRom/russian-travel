@@ -12,5 +12,6 @@
     .footer__copyright {
         line-height: 1;
         text-align: left;
+        align-self: start;
     }
 }

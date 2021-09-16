@@ -2,8 +2,6 @@
     max-width: 456px;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
-    height: 46px;
     align-self: flex-end;
 }
 

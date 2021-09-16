@@ -1,5 +1,14 @@
 .header__lang-block {
     display: flex;
-    margin-right: 18px;
-    border-bottom: 1px #fff solid;
+    margin: 18px 18px 6px 0;
+}
+
+.header__lang-block:last-child {
+    margin-right: 0;
+}
+
+@media screen and (max-width: 767px) {
+    .header__lang-block {
+        margin: 14px 18px 8px 0
+    }
 }
