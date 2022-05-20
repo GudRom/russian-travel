@@ -1,4 +1,4 @@
-# Проект: Путешествие по России
+# Путешествие по России
 ![russia](https://user-images.githubusercontent.com/88783602/169514298-1cf35ff5-ca5e-4377-8d74-d6faaff84a3d.png)
 
 **Описание проекта**
